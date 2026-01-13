@@ -20,7 +20,7 @@ WebUIに関する質問以外にはお答えすることは出来ません。ま
   
 ### 使い方（仮  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/niel-blue/beatrice-trainer-webui-colab.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niel-blue/niel-blue-beatrice-trainer-webui-colab/blob/main/Beatrice_Trainer_unoffisial_webui_colab_0113.ipynb)  
 
     
 基本的にはローカルのwebui版とだいたい同じです。  
