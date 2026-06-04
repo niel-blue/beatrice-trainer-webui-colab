@@ -23,7 +23,8 @@ WebUIに関する質問以外にはお答えすることは出来ません。ま
   
 ### 使い方
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niel-blue/niel-blue-beatrice-trainer-webui-colab/blob/main/Beatrice_Trainer_unoffisial_webui_colab_0113.ipynb)  
-基本的にはローカルのwebui版とだいたい同じです。  
+使用するGoogleアカウントでインした状態で上記のリンク先を開き、自身のドライブ内にコピーしてください。
+基本的にローカルのwebui版と使い方は同じです。  
 <br>
 本プログラムはGoogle Drive内の音声ファイルにアクセスしたり、ドライブ内に生成結果を出力する都合上、Google Driveへのアクセスの許可を求めます。
 生成されたモデルデータはそれなりに大きな容量になることがあります。最低でも5GB前後の空き容量を確保しておいてください。  
@@ -51,6 +52,7 @@ dataset_1 をデータフォルダのパス、outputを出力先として指定�
 <br>
 ※注意！  
 パス入力時、大文字小文字も正確に入力してください。またフォルダ階層を指定する時は\ではなく/を使用してください。  
+無料枠の場合はおおよそ10000stepsほどでタイムアップになる可能性があります。セーブのインターバルは小さい値にすることをオススメします。
   
 ---
   
