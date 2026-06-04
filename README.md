@@ -31,10 +31,12 @@ WebUIに関する質問以外にはお答えすることは出来ません。ま
 <br>
 Beatriceは1モデル内で『複数話者をまとめて学習』が基本設計となっています（※もちろん一人だけでも可能）  
 音声ファイルはGoogle Drive内に以下のような配置にしておいてください。  
+この例の場合はdataset_1という名前のモデル名になり、その中から話者を選ぶという構成になります。  
+（※各名前はモデル作成後に変更可能です）  
 <br>
 例）  
 My Drive/  
-　　├── dataset_1/ 
+　　├── dataset_1/  
 　　│　　　├── speaker1/  
 　　│　　　│　　　├── audio1.wav  
 　　│　　　│　　　└── audio2.flac  
@@ -42,9 +44,8 @@ My Drive/
 　　│　　　　　　　└── audio1.wav  
 　　└── output/
 <br>
+<br>
 dataset_1 をデータフォルダのパス、outputを出力先として指定することになります。  
-また、この例の場合はdataset_1という名前のモデル名になり、その中から話者を選ぶという構成になります。  
-（※各名前はモデル作成後に変更可能です）
 <br>
 <img width="710" height="223" alt="inout" src="https://github.com/user-attachments/assets/5454f4b2-87c8-4daa-bc2d-ab0568b3a813" />
 <br>
