@@ -1,6 +1,7 @@
 ## Beatrice Trainer v2 rc.2 対応　Unofficial Simple WebUI colab版
 
 ### バージョン履歴
+- **2026.09.05**：Hugging Face通信障害によるエラーに対応
 - **2026.01.14**：colab版 暫定的リリース
 <br>
 <br>
