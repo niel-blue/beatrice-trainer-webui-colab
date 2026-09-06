@@ -27,6 +27,10 @@ WebUIに関する質問以外にはお答えすることは出来ません。ま
 使用するGoogleアカウントでインした状態で上記のリンク先を開き、自身のドライブ内にコピーしてください。
 基本的にローカルのwebui版と使い方は同じです。  
 <br>
+ローカル用 Beatrice Trainer Unofficial Simple WebUI  
+https://github.com/niel-blue/beatrice-trainer-webui  
+<br>
+<br>
 本プログラムはGoogle Drive内の音声ファイルにアクセスしたり、ドライブ内に生成結果を出力する都合上、Google Driveへのアクセスの許可を求めます。
 生成されたモデルデータはそれなりに大きな容量になることがあります。最低でも5GB前後の空き容量を確保しておいてください。  
 <br>
