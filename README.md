@@ -1,6 +1,7 @@
 ## Beatrice Trainer v2 rc.2 対応　Unofficial Simple WebUI colab版
 
 ### バージョン履歴
+- **2026.10.11（1011版）**：音声スライサーの初期サンプリングレートを16,000Hzから24,000Hz、初期出力形式をWAVからFLACに変更。「16000Hz 推奨」の説明を削除。分割長さの初期値は従来どおり5秒。Colab起動リンクを1011版へ更新。
 - **2026.09.05**：Hugging Face通信障害によるエラーに対応
 - **2026.01.14**：colab版 暫定的リリース
 <br>
@@ -23,7 +24,7 @@ WebUIに関する質問以外にはお答えすることは出来ません。ま
 ---
   
 ### 使い方
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niel-blue/niel-blue-beatrice-trainer-webui-colab/blob/main/Beatrice_Trainer_unoffisial_webui_colab_260905.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niel-blue/beatrice-trainer-webui-colab/blob/main/Beatrice_Trainer_unoffisial_webui_colab_1011.ipynb)  
 使用するGoogleアカウントでインした状態で上記のリンク先を開き、自身のドライブ内にコピーしてください。
 基本的にローカルのwebui版と使い方は同じです。  
 <br>
