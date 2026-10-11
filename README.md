@@ -24,7 +24,7 @@ WebUIに関する質問以外にはお答えすることは出来ません。ま
 ---
   
 ### 使い方
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niel-blue/beatrice-trainer-webui-colab/blob/main/Beatrice_Trainer_unoffisial_webui_colab_1011.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niel-blue/beatrice-trainer-webui-colab/blob/main/Beatrice_Trainer_unoffisial_webui_colab_261012.ipynb)  
 使用するGoogleアカウントでインした状態で上記のリンク先を開き、自身のドライブ内にコピーしてください。
 基本的にローカルのwebui版と使い方は同じです。  
 <br>
